@@ -9,7 +9,5 @@ public class ArrayZeroToOnes {
         return testArray;
     }
 
-    public int calculateLength() {
-
-    }
+    //public int calculateLength() {    }
 }

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="455e3f7e-828d-4e36-b4f4-878bab407106" name="Default Changelist" comment="Today§ TDD" />
+    <list default="true" id="455e3f7e-828d-4e36-b4f4-878bab407106" name="Default Changelist" comment="Final TDD">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayZeroToOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArrayZeroToOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ArraySetterTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,13 +121,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612363291053</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Today§ TDD">
+      <created>1612363435550</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612363435550</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final TDD">
+      <created>1612363488082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612363488082</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First TDD" />
     <MESSAGE value="Today TDD" />
     <MESSAGE value="Today§ TDD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Today§ TDD" />
+    <MESSAGE value="Final TDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final TDD" />
   </component>
 </project>
