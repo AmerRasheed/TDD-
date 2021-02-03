@@ -16,7 +16,7 @@ public class ArraySetterTest {
     {
         ArrayZeroToOnes testObject = new ArrayZeroToOnes();  // Test Code
         int [] testArray  = {0,1,0,8,0};      // Test Code
-        //int [] expectedArray = {1,1,1,8,1,8,8,8,8,8,8,8};
+        //  int [] expectedArray = {1,1,1,8,1,8,8,8,8,8,8,8};
         int expectedLength = 5;
         int actualArrayLenth = testObject.calculateLength(testArray);
         Assertions.assertArrayEquals(expectedLength,actualArrayLenth);
