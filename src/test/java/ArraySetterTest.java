@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 public class ArraySetterTest {
     @Test
     void setArrayZeroToOnes() {
-        ArrayZeroToOnes testObject = new ArrayZeroToOnes();  // Test Code
+          ArrayZeroToOnes testObject = new ArrayZeroToOnes();  // Test Code
         int [] testArray = {0,1,0,8,0};      // Test Code
         int [] expectedArray = {1,1,1,8,1};
         int [] actualArray = testObject.setMethod(testArray);
