@@ -149,8 +149,33 @@
       <option name="project" value="LOCAL" />
       <updated>1612365386434</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="5 Feb">
+      <created>1612519739151</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612519739151</updated>
+    </task>
+    <task id="LOCAL-00011" summary="5 Feb">
+      <created>1612519957658</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612519957658</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First TDD" />
@@ -158,6 +183,7 @@
     <MESSAGE value="Today§ TDD" />
     <MESSAGE value="Final TDD" />
     <MESSAGE value="Group TDD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Group TDD" />
+    <MESSAGE value="5 Feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 Feb" />
   </component>
 </project>
