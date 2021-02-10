@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="455e3f7e-828d-4e36-b4f4-878bab407106" name="Default Changelist" comment="Group TDD" />
+    <list default="true" id="455e3f7e-828d-4e36-b4f4-878bab407106" name="Default Changelist" comment="Group TDD">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayZeroToOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArrayZeroToOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ArraySetterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArraySetterTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612519957658</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="5 Feb">
+      <created>1612520157874</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612520157874</updated>
+    </task>
+    <task id="LOCAL-00013" summary="5 Feb 2">
+      <created>1612520217309</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612520217309</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +194,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First TDD" />
@@ -184,6 +203,7 @@
     <MESSAGE value="Final TDD" />
     <MESSAGE value="Group TDD" />
     <MESSAGE value="5 Feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 Feb" />
+    <MESSAGE value="5 Feb 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 Feb 2" />
   </component>
 </project>
